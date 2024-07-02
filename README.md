@@ -26,12 +26,8 @@
 
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kerala, India.
 
-- 🔭 I’m currently working on 'Hiep', A social media platform that connects all Fashion Designers and Fashion Enthusiasts.
-- 🌱 I’m currently learning Express JS
-- 💬 Ask me about React JS/C/C++/Java..
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🔭 I’m currently working on contributing to the web3 space.
+- 🌱 I’m currently learning blockchain and web3
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-adithv-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adith-v-1412001b4/)
 
@@ -62,4 +58,4 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adithdotv&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithdotv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
