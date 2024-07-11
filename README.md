@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kerala, India.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kerala, India, looking for opportunities to showcase my skills..
 
 - 🔭 I’m currently working on contributing to the web3 space.
 - 🌱 I’m currently learning blockchain and web3
