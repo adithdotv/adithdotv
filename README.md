@@ -29,7 +29,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🔭 I’m currently working on contributing to the web3 space.
 - 🌱 I’m currently learning blockchain and web3
 
-- :mailbox:How to reach m: [![Linkedin Badge](https://img.shields.io/badge/-adithv-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adith-v-1412001b4/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-adithv-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adith-v-1412001b4/)
 
 ---
 
