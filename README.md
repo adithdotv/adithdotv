@@ -54,8 +54,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 
 ---
+### 🔥 My Stats
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adithdotv)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=adithdotv&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithdotv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithdotv&layout=compact&theme=dark)
+
